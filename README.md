@@ -5,7 +5,7 @@
 Download the package from GitHub
 
 ```shell
-git clone https://github.com/coderaidershaun/chatbot-conversation-jarvis.git chatbot
+git clone https://github.com/code-bajju/Nirogi-Yogi chatbot
 ```
 
 ## Setup backend
